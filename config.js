@@ -13,7 +13,7 @@ let option = {
         "YIDS YANG SANGAT AMAT GANTENG",
         "VRZ KANJUT BJIR"
     ],
-    discord_invite_link: "discord.gg/cosmicps",
+    discord_invite_link: "https://discord.com/invite/cosmicps",
     ip_address: "Your server ip address",
     host_for_android: "Your host link for android device"
 }
