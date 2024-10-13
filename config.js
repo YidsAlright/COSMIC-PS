@@ -7,13 +7,13 @@
  -- CHANGE THE WEBSITE OPTION IN BELOW --
 */
 let option = {
-    server_name: "Your server name",
-    server_description: "Your server Description",
+    server_name: "COSMIC PRIVATE SERVER",
+    server_description: "EWE EWE KONTOL LUH ANJ",
     owner: [
-        "Owner Server#0000",
-        "Owner Server#0000"
+        "YIDS YANG SANGAT AMAT GANTENG",
+        "VRZ KANJUT BJIR"
     ],
-    discord_invite_link: "Your permanent discord invite link",
+    discord_invite_link: "discord.gg/cosmicps",
     ip_address: "Your server ip address",
     host_for_android: "Your host link for android device"
 }
